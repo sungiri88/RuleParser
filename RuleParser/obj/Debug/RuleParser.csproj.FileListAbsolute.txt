@@ -1,0 +1,14 @@
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\bin\Debug\RuleParser.exe.config
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\bin\Debug\RuleParser.exe
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\bin\Debug\RuleParser.pdb
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\obj\Debug\RuleParser.csprojResolveAssemblyReference.cache
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\obj\Debug\RuleParser.RuleParser.resources
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\obj\Debug\RuleParser.Properties.Resources.resources
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\obj\Debug\RuleParser.csproj.GenerateResource.Cache
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\obj\Debug\RuleParser.exe
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\obj\Debug\RuleParser.pdb
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\bin\Debug\CsvHelper.dll
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\bin\Debug\Newtonsoft.Json.dll
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\bin\Debug\CsvHelper.xml
+c:\users\umapathy\documents\visual studio 2015\Projects\RuleParser\RuleParser\bin\Debug\Newtonsoft.Json.xml
